@@ -5,10 +5,6 @@
 ![icon](https://github.com/user-attachments/assets/dadfff6f-845f-4e0e-90e1-17f82f8fb29f)
 
 
-![photo_2026-04-02_18-01-07](https://github.com/user-attachments/assets/55d468db-067f-412f-92a0-1150f547a754)
-
-
-
 
 ## 📱 Скачать
 
@@ -59,6 +55,8 @@ Pizza_calculator_set/
 1. Скачайте APK из раздела [Releases](https://github.com/Orochysensey/Pizza_calculator_set/releases)
 2. Разрешите установку из **неизвестных источников** (на телефоне)
 3. Откройте файл и нажмите **Установить**
+
+![photo_2026-04-02_18-01-07](https://github.com/user-attachments/assets/55d468db-067f-412f-92a0-1150f547a754)
 
 ---
 
